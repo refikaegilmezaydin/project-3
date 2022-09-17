@@ -21,6 +21,6 @@ merge sort ödevim
 
 
 ## Soru 1.2: Big-O gösterimini yazınız.
-### evap 1.2: Bu dizinin Merge Sort teknigi ile siralanmasinin time complexity gosterimi: *O(nlogn) seklinde olacaktir. Dizinin eleman sayisina gore islem basamaklari ve dolayisiyla toplam islem suresi dogru orantili olarak lineer artis gostermek yerine dizinin eleman sayisi surekli daha kucuk parcalara bolunerek karsilastirma yuku azaltilmasinin yanisira islem tekrarinin dizi eleman sayisina bagli olarak artip azalacagindan islem suresi logaritmik bir zaman/islem grafiği çıkaracaktır. 
+### Cevap 1.2: Bu dizinin Merge Sort teknigi ile siralanmasinin time complexity gosterimi: *O(nlogn) seklinde olacaktir. Dizinin eleman sayisina gore islem basamaklari ve dolayisiyla toplam islem suresi dogru orantili olarak lineer artis gostermek yerine dizinin eleman sayisi surekli daha kucuk parcalara bolunerek karsilastirma yuku azaltilmasinin yanisira islem tekrarinin dizi eleman sayisina bagli olarak artip azalacagindan islem suresi logaritmik bir zaman/islem grafiği çıkaracaktır. 
 -----------------------------------------
 [Kodluyoruz sayfamız için tıklayınız:](https://www.patika.dev/tr)
