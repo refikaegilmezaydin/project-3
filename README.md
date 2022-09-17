@@ -5,7 +5,7 @@ merge sort ödevim
     ## Soru 1.1: Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 	      ### Cevap 1.1: [16,21,11,8,12,22] ana dizisinin Merge Sort tekniği ile sıralanışı aşağıdaki gibidir:
                          
-                         [16,21,11,8,12,22]						
+                         		[16,21,11,8,12,22]						
 										
                 [16,21,11]						[8,12,22]
 										
