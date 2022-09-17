@@ -1,9 +1,9 @@
 # project-3
-merge sort ödevim
+# merge sort ödevim
 
 # [16,21,11,8,12,22] -> Merge Sort
-    ## Soru 1.1: Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-	      ### Cevap 1.1: [16,21,11,8,12,22] ana dizisinin Merge Sort tekniği ile sıralanışı aşağıdaki gibidir:
+##  Soru 1.1: Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+###    Cevap 1.1: [16,21,11,8,12,22] ana dizisinin Merge Sort tekniği ile sıralanışı aşağıdaki gibidir:
                          
                          		[16,21,11,8,12,22]						
 										
